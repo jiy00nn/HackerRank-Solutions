@@ -24,7 +24,7 @@ int main()
 }
 ```
 
-> 💡 The expression %[^\n] in C is used for generally reading the whole line.<sup>[3](#footnote_3)</sup>
+> 💡 The expression %[^\n] in C is used for generally reading the whole line.<sup>[3](#footnote_3)</sup> If you use use `%s`, `scanf()` accepts string only until it finds the **first space**.
 
 **Result**
 
