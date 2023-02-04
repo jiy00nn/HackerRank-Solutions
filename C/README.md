@@ -1,4 +1,7 @@
 ## C
+
+> If you want to check the **solution**, click the Probelm name.<br/>Or if you want to ckeck the **note**, click the check mark(✅).
+
 ||Problem name|Solved or Unsolved|
 |:---:|---|:---:|
 |1|["Hello World!" in C](/C/Hello%20World%20in%20C.c)|[✅](/C/Note/Hello%20World%20in%20C.md)|
