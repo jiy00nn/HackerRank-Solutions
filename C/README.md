@@ -1,9 +1,9 @@
 ## C
 ||Problem name|Solved or Unsolved|
 |:---:|---|:---:|
-|1|["Hello World!" in C](/C/Note/Hello%20World%20in%20C.md)|✅|
-|2|Playing With Characters|✅|
-|3|Sum and Difference of Two Numbers|✅|
+|1|["Hello World!" in C](/C/Hello%20World%20in%20C.c)|[✅](/C/Note/Hello%20World%20in%20C.md)|
+|2|[Playing With Characters](/C/Playing%20With%20Characters.c)|✅|
+|3|[Sum and Difference of Two Numbers](/C/Sum%20and%20Difference%20of%20Two%20Numbers.c)|✅|
 |4|Functions in C||
 |5|Pointers in C||
 |6|Conditional Statements in C||
