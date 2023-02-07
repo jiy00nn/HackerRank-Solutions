@@ -7,9 +7,9 @@
 |1|["Hello World!" in C](/C/Hello%20World%20in%20C.c)|[✅](/C/Note/Hello%20World%20in%20C.md)|
 |2|[Playing With Characters](/C/Playing%20With%20Characters.c)|✅|
 |3|[Sum and Difference of Two Numbers](/C/Sum%20and%20Difference%20of%20Two%20Numbers.c)|✅|
-|4|Functions in C||
-|5|Pointers in C||
-|6|Conditional Statements in C||
+|4|[Functions in C](/C/Functions%20in%20C.c)|✅|
+|5|[Pointers in C](/C/Pointers%20in%20C.c)|✅|
+|6|[Conditional Statements in C](/C/Conditional%20Statements%20in%20C.c)|✅|
 |7|For Loop in C||
 |8|Sum of Digits of a Five Digit Number||
 |9|Bitwise Operators||
@@ -27,5 +27,5 @@
 |21|Querying the Document||
 |22|Boxes through a Tunnel||
 |23|Small Triangles, Large Triangles||
-|24|Post Transition||
+|24|[Post Transition](/C/Post%20Transition.c)||
 |25|Structuring the Document||
