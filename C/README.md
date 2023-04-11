@@ -5,7 +5,7 @@
 ||Problem name|Solved or Unsolved|
 |:---:|---|:---:|
 |1|["Hello World!" in C](/C/Hello%20World%20in%20C.c)|[✅](/C/Note/Hello%20World%20in%20C.md)|
-|2|[Playing With Characters](/C/Playing%20With%20Characters.c)|[✅]()|
+|2|[Playing With Characters](/C/Playing%20With%20Characters.c)|[✅](/C/Note/Playing%20With%20Characters.md)|
 |3|[Sum and Difference of Two Numbers](/C/Sum%20and%20Difference%20of%20Two%20Numbers.c)|[✅]()|
 |4|[Functions in C](/C/Functions%20in%20C.c)|[✅]()|
 |5|[Pointers in C](/C/Pointers%20in%20C.c)|[✅]()|
