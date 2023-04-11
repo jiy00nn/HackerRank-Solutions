@@ -1,6 +1,6 @@
 ## C
 
-> If you want to check the **solution**, click the Probelm name.<br/>Or if you want to ckeck the **note**, click the check mark(✅).
+> If you want to check the **solution**, click the Probelm name.<br/>Or if you want to ckeck the **note**, click the check mark(✅ or ❌).
 
 ||Problem name|Solved or Unsolved|
 |:---:|---|:---:|
@@ -13,8 +13,8 @@
 |7|[For Loop in C](/C/For%20Loop%20in%20C.c)|[✅]()|
 |8|[Sum of Digits of a Five Digit Number](/C/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number.c)|[✅]()|
 |9|[Bitwise Operators](/C/Bitwise%20Operators.c)|[✅]()|
-|10|[Printing Pattern Using Loops]()||
-|11|[1D Arrays in C]()||
+|10|[Printing Pattern Using Loops]()|[❌](/C/Note/Printing%20Pattern%20Using%20Loops.md)|
+|11|[1D Arrays in C](/C/1D%20Arrays%20in%20C.c)|[✅]()|
 |12|[Array Reversal]()||
 |13|[Printing Tokens]()||
 |14|[Digit Frequency]()||
